@@ -1,0 +1,30 @@
+table	{
+	border: 4px black;
+	background-color: darkred;
+	color: white;
+}
+table	{
+	border: 4px black;
+}
+tr, th {
+	background-color: black;
+	color: white;
+}
+tr, td {
+	background-color: white;
+	color: black;
+}
+td:hover {
+	background-color: blue;
+	color: white;
+}
+p	{
+	 color: black;
+	 text-align: left;
+	}
+ol {
+	list-style-type: upper-roman;
+}
+ul {
+	list-style-type: square;
+}
